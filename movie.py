@@ -24,7 +24,7 @@ def search_city():
 
 @app.route('/')
 def index():
-    return '<h1 style='color:red'>WEATHER</h1>'
+    return '<h1>WEATHER</h1>'
 
 
 if __name__ == '__main__':
